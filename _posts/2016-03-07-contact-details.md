@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-07T05:24:12.546Z'
-dateModified: '2016-03-07T05:23:55.323Z'
+datePublished: '2016-03-07T05:25:57.368Z'
+dateModified: '2016-03-07T05:25:44.209Z'
 title: Contact Details
 author: []
+sourcePath: _posts/2016-03-07-contact-details.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-07-contact-details.md
-published: true
 url: contact-details/index.html
 _type: Blurb
 
